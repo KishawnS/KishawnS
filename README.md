@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**KishawnS/KishawnS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
 MBA Candidate | Mechatronics Engineering & Management Graduate | Automation Specialist
 
